@@ -1,0 +1,9 @@
+# Ignore JetBrains IDE files
+.idea/
+
+# Ignore macOS system files
+.DS_Store
+
+# Optional: log or cache files
+*.log
+*.cache
